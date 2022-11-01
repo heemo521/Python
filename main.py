@@ -18,3 +18,8 @@ int()
 float()
 bool()
 str()
+
+firstNum = float(input('First Number: '))
+secondNum = float(input('Second Number: '))
+sum = firstNum + secondNum
+print("Sum: " + str(sum))
